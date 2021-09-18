@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zmqWflrSJ3nzpDMPEIMgq7jzRzXzcLlBkNcFGsyZFuYICsZdvS38gprZvII3hKWUdQ8aosVmtc+QIR1A+l/ELA==",
+  "dgSpecHash": "JLJFwI58ixTnwEFlRqEmgjnwPNpvRtn9ZFtRglbXWE+3sg2xFs57Vjnuh0jm7ZgG+LfqC9TeTeLtSNNCJjq5IA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\BlogProject\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
