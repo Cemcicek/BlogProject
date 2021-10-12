@@ -51,13 +51,13 @@ namespace CoreDemo.Controllers
         }
         public List<SelectListItem> GetCityList()
         {
-            List<SelectListItem> adminRole = (from x in GetCity()
+            List<SelectListItem> Role = (from x in GetCity()
                                               select new SelectListItem
                                               {
                                                   Text = x,
                                                   Value = x
                                               }).ToList();
-            return adminRole;
+            return Role;
         }
         public List<string> GetCity()
         {
